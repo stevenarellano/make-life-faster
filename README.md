@@ -10,3 +10,10 @@ list of resources that I use for launching projects quickly.
 
 ## diagrams
 - [lucid.app](https://lucid.app/documents#/dashboard)
+
+## fe dev
+- [storybook.js](https://storybook.js.org/)
+
+
+## to try technolgoies
+- [ ] [deno.land](https://deno.land/)
