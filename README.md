@@ -1,4 +1,5 @@
 # make-life-faster
+list of resources that I use for launching projects quickly.
 
 ## video recording
 - [loom.com](https://www.loom.com/looms/videos)
