@@ -7,6 +7,8 @@ list of resources that I use for launching projects quickly.
 ## video recording
 - [loom.com](https://www.loom.com/looms/videos)
 
+## writing
+- [lex.page](https://lex.page/~)
 
 ## diagrams
 - [lucid.app](https://lucid.app/documents#/dashboard)
