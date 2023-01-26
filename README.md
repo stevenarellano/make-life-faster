@@ -3,6 +3,7 @@ list of resources that I use for launching projects quickly.
 
 ## design
 - [canva](https://www.canva.com/logos/)
+- [checklist](https://www.checklist.design/)
 
 ## video recording
 - [loom.com](https://www.loom.com/looms/videos)
