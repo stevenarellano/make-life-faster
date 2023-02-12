@@ -21,9 +21,8 @@ list of resources that I use for launching projects quickly.
 ## want to try
 - [ ] [deno.land](https://deno.land/)
 - [ ] [synthesia.io](https://www.synthesia.io/) - video from text
-- [ ] [papercup](
-- [ ] (airops.com) - Write SQL, documentation and more 10x faster with our collection of powerful recipes.
-- [ ] (compose.ai) - a chrome extension that cuts your writing time by 40% with AI
+- [ ] [airops.com](https://www.airops.com/) - Write SQL, documentation and more 10x faster with our collection of powerful recipes.
+- [ ] [compose.ai](https://www.compose.ai/) - a chrome extension that cuts your writing time by 40% with AI
 - [ ] [supertone.ai](https://supertone.ai/) - create music, voices, and other sounds for your project
 - [ ] [elevenlabs.io](https://beta.elevenlabs.io/) - the best voice syntehsizer on the market at the moment.
 - [ ] [poised.com](poised.com) - an ai-powered communications coach that will make you a better speaker.
