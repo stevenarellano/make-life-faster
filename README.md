@@ -32,3 +32,4 @@ list of resources that I use for launching projects quickly.
 - [ ] [iconify.design](https://iconify.design/)
 - [ ] [adept.ai](https://www.adept.ai/) - misc tasks app
 - [ ] [palette.fm](https://palette.fm/) - color black and white photos
+- [ ] [leonardo.ai](https://leonardo.ai/) - game assets
